@@ -1,5 +1,5 @@
-Name - Yogesh Koli
-Roll no - 147026
+Name - Yogesh Koli |
+Roll no - 147026 |
 Project title - Password Generator using tkinter and pyperclip
 
 Steps to run -
